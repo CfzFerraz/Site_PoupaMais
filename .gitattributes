@@ -1,0 +1,9 @@
+# GitHub Linguist: keep the project's real source languages visible.
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.svg linguist-language=SVG
+*.json linguist-language=JSON
+*.png linguist-generated=true
+*.jpg linguist-generated=true
+*.jpeg linguist-generated=true
